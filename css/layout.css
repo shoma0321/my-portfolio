@@ -189,8 +189,8 @@ h2{
 }
 
 @media screen and (max-width:768px) {
-  #service.fixed,
-  #about.fixed{
+  #profile .fixed,
+  #works.fixed{
       height: auto;
     }
 }
